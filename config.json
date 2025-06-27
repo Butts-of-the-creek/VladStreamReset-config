@@ -1,5 +1,5 @@
 {
-  "kill_keys": [],
+  "kill_keys": [SR-2025-WPTVF82LXW],
   "features": {
     "auto_cookie_clear": true,
     "ip_rotation": true,
