@@ -1,9 +1,4 @@
 {
-  "kill_keys": [SR-2025-WPTVF82LXW],
-  "features": {
-    "auto_cookie_clear": false,
-    "ip_rotation": false,
-    "referral_tracking": false
-  },
-  "message": "Your license has expired or was revoked. Please renew."
+  "kill_keys": ["SR-2025-WPTVF82LXW", "SR-2024-1234567890"],
+  "message": "Your license has been revoked. Please contact support."
 }
