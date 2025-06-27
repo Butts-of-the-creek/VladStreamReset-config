@@ -1,0 +1,9 @@
+{
+  "kill_keys": [],
+  "features": {
+    "auto_cookie_clear": true,
+    "ip_rotation": true,
+    "referral_tracking": true
+  },
+  "message": "Your license has expired or was revoked. Please renew."
+}
